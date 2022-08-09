@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<a href="https://github.com/itsyuxuan"><img align="center" alt="Yuxuan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itsyuxuan&custom_title=Yuxuan's GitHub Stats&show_icons=true&count_private=true&theme=panda"/></a>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <!--
 **itsyuxuan/itsyuxuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
