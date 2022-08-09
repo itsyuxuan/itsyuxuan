@@ -1,8 +1,8 @@
-### Hi there 👋
+### G’day mate! How are you today? 👋
 
-<a href="https://github.com/itsyuxuan"><img align="center" alt="Yuxuan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itsyuxuan&custom_title=Yuxuan's GitHub Stats&show_icons=true&count_private=true&theme=panda"/></a>
+<a href="https://github.com/itsyuxuan"><img align="center" alt="Yuxuan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itsyuxuan&custom_title=Yuxuan's GitHub Stats&show_icons=true&count_private=true&theme=buefy"/></a>
 
-<a href="https://github.com/itsyuxuan"><img align="center" alt="Yuxuan's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@itsyuxuan&custom_title=Yuxuan's WakaTime Stats&layout=compact&time_range=last_year&theme=panda&langs_count=10"/></a>
+<a href="https://github.com/itsyuxuan"><img align="center" alt="Yuxuan's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@itsyuxuan&custom_title=Yuxuan's WakaTime Stats&layout=compact&time_range=last_year&theme=buefy&langs_count=10"/></a>
 
 
 <!--
