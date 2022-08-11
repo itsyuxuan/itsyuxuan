@@ -1,9 +1,8 @@
 # G’day mate! How are you today? 👋
 
-<a href="https://github.com/itsyuxuan"><img align="center" alt="Yuxuan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itsyuxuan&custom_title=Yuxuan's GitHub Stats&show_icons=true&count_private=true&theme=buefy"/></a>
+<a href="https://github.com/itsyuxuan"><img align="center" alt="Yuxuan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itsyuxuan&custom_title=Yuxuan%27s%20GitHub%20Stats&show_icons=true&count_private=true&theme=buefy"/></a>
 
-<a href="https://github.com/itsyuxuan"><img align="center" alt="Yuxuan's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@itsyuxuan&custom_title=Yuxuan's WakaTime Stats&layout=compact&time_range=last_year&theme=buefy&langs_count=10"/></a>
-
+<a href="https://github.com/itsyuxuan"><img align="center" alt="Yuxuan's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@itsyuxuan&custom_title=Yuxuan%27s%20WakaTime%20Stats&layout=compact&time_range=last_year&theme=buefy&langs_count=10"/></a>
 
 <!--
 **itsyuxuan/itsyuxuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
