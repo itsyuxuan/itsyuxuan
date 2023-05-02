@@ -1,6 +1,6 @@
 # G’day mate! How ya goin'? 👋
 
-<a href="https://github.com/itsyuxuan"><img align="center" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itsyuxuan&custom_title=Yuxuan%27s%20GitHub%20Stats&show_icons=true&count_private=true&theme=buefy"/></a>
+<a href="https://github.com/itsyuxuan"><img align="center" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itsyuxuan&custom_title=My%20GitHub%20Stats&show_icons=true&count_private=true&theme=buefy"/></a>
 
 <!--
 **itsyuxuan/itsyuxuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
